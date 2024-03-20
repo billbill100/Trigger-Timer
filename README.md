@@ -1,4 +1,4 @@
-# Trigger-Timer
+# Trigger Trap Splash Timer
 Sound, light or manual activated flash delay to capture high speed photography. Also operates solenoids for water drop collisions.
 
 There are many pre-made and DIY trigger trap, time delay & water splash projects available. I aim to make this the best, using the latest (but cheaply available) microcontroller, full colour display and modules, negating the need to manufacture pcbs or use unsightly breadboards.

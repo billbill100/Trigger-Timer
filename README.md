@@ -5,7 +5,8 @@ There are many pre-made and DIY trigger trap, time delay & water splash projects
 
 Will have every feature & option I can think of, but any extra functionality required, I can add at users requests. 
 
-coming soon.
+Much documentation is already on the Github, allowing builders to get started. More will be added in the coming days.
+If you build the Timer, please post photos & give feedback, as well as any ideas or suggestions for improvement. The more feedback I get, the better I can make the projects. Also any ideas for other photography related progjects greatefully received. 
 
 An easy DIY project to build a top quality, but cheap trigger timer for your camera.
 Freeze motion, like bursting ballons (filled with water or powder) fruit being shot (air-pistol) or water drop collissions to capture that lovely crown effect.

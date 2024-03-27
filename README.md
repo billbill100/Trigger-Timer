@@ -14,7 +14,7 @@ Freeze motion, like bursting ballons (filled with water or powder) fruit being s
 The timer can be triggered by an external sensor, sound or light, or a push-button. After a user set delay, the flash wil fire. 
 As a flash has a very short duration, any motion will be frozen. The delay can be adjusted to exactly the right moment to capture the photo.
 
-Solenoid valves can be fired. this will allow the amazing water drop & collision photos.
-Setting multiple drop sizes and time between drops, one can catch collisionas as the first drop splashes up as the next falling drop collides with it.
+Solenoid valves can be fired. this will allow amazing water drop & collision photos.
+Setting multiple drop sizes and time between drops, one can catch collisions as the first drop splashes up as the next falling drop collides with it.
 
-Building will follow the same formatas the other projects (so take a look at my github) using an ESP32 development board and pre-made modules. This elimates the need to make pcbs or use breadboard. 
+Building will follow the same format as the other projects (so take a look at my github) using an ESP32 development board and pre-made modules. This elimates the need to make pcbs or use breadboard. 

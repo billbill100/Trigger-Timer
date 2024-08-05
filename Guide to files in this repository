@@ -1,0 +1,53 @@
+This file details each of the documents or files found in this repository, to aid finding the correct one swiftly.
+If you build this project. please show your gratitude for the time & effort put into this projiect, 
+for your free use, by saying 'Hi' on the Photrio thread & also posting photos of your build. You can also find help & support here.
+
+https://www.photrio.com/forum/threads/lightning-capture-device-cheap-simple-it-works.207958/#post-2812857
+
+ESP32 FOLDER:-
+
+1_ESP32_Trigger_Trap_Splash_Timer_Parts.pdf
+  A list of the parts required to make the project. With links to and pictures of the parts.
+
+2_ESP32_Trigger_Trap_Splash_Timer_Hardware_Build.pdf
+   A guide of how to physically build the project, with, pictures & examples of completed testers
+
+3_ESP32_Trigger_Trap_Splash_Timer_Wiring_Guide.pdf
+   Photos & guide of wiring.
+
+4_ESP_32_Installing_CP2102_or_CH340USB_Driver_Generic.pdf
+  Guide to installing CP2102 or CH340 USB driver for ESP32 board
+
+5_ESP32_Camera_Connections.pdf
+  How to connect different camreas to the Lightning Capture device
+
+6_ESP32_ESP32_Trigger_Trap_Splash_Timer_Firmware_Looad.pdf
+  A guide to getting the software onto the Arduino Nano board.
+
+7_ESP32_Trigger_Trap_Splash_Timer_Operating_Guide.pdf
+  Description of how to use the Lightning Capture Device 
+
+8_ESP32_Trigger_Trap_Splash_Timere_schematic_x_x_x_x.pdf
+ Schmenatic diagram showing connections - full version
+
+CP210x_Universal_Windows_Driver.zip
+ Windows driver for the ESP32 on-board USB interface.
+
+Flash Download Tools.zip
+  Compresssed folder containing 'Flash Download Tools', a program required to flash the Shutter Tester code to the ESP32 board. 
+  (See document ESP32 Firmware load)
+
+
+ESP_32_Firmware subfolder.
+ Within here, you will find one or more folders with current and old firmware versions.
+
+Each folder contains three files:-
+esp32_Trigger_Trap_Splash_Timer_x_x_x_x.ino.bootloader.bin
+esp32_Trigger_Trap_Splash_Timer_x_x_x_x.ino.partitions.bin
+esp32_Trigger_Trap_Splash_Timer_x_x_x_x.ino.bin
+
+Additionally, files listed as 'beta' maybe shown. Refer to the Photrio thread before using these.
+
+Active builders & users thread. If you start making the project, please say 'hi' here
+
+https://www.photrio.com/forum/threads/lightning-capture-device-cheap-simple-it-works.207958/#post-2812857

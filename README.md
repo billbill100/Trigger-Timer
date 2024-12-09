@@ -5,8 +5,6 @@ There are many pre-made and DIY trigger trap, time delay & water splash projects
 
 Will have every feature & option I can think of, but any extra functionality required, I can add at users requests. 
 
-Much documentation to build the Trigger Trap Timer Splash has already been uploaded to Github, including the parts list, allowing builders to get started. In the coming days all of the documentation, including firmware will be added,
-
 If you build the Timer, please post photos & give feedback, as well as any ideas or suggestions for improvement. The more feedback I get, the better I can make the projects. Also any ideas for other photography related progjects gratefully received. 
 
 An easy DIY project to build a top quality, but cheap trigger timer for your camera.
@@ -19,3 +17,7 @@ Solenoid valves can be fired. this will allow amazing water drop & collision pho
 Setting multiple drop sizes and time between drops, one can catch collisions as the first drop splashes up as the next falling drop collides with it.
 
 Building will follow the same format as the other projects (so take a look at my github) using an ESP32 development board and pre-made modules. This eliminates the need to make pcbs or use breadboard. 
+
+On first startup, the screen will show an Authorisation Code and ask that a User Key be entered. To obtain the User Key, contact me via message and the key will be issued free of charge. Please note this key is will last the lifetime of your project. It only needs entering once but make a note of it (write on a piece of paper & leave in the project box) in case a Factory Reset is performed. 
+
+The User key is issued free of charge, and there will never be any charge made for this key. It has been added to stop piracy and users being charged for firmware downloads.
